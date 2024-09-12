@@ -1,0 +1,4 @@
+bazel-bin
+bazel-out
+bazel-rules_lint_repro
+bazel-testlogs
